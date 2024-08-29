@@ -1,12 +1,9 @@
 # Conección a API
 
-
-
 ## Capturas de Pantalla del Proyecto
 
 
-![alt text](Pelis-api.png)
-
+![Pelis-api](https://github.com/user-attachments/assets/6e13f6b1-720a-4333-b267-d68cdab1e922)
 
 
 ## Autor
